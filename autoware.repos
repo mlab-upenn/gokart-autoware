@@ -46,7 +46,7 @@ repositories:
   universe/external/ndt_omp:
     type: git
     url: https://github.com/tier4/ndt_omp.git
-    version: tier4/main
+    version: 96b5b687f3b96ab1bd5c01e70bd2e43bf4445589
   universe/external/eagleye:
     type: git
     url: https://github.com/MapIV/eagleye.git
