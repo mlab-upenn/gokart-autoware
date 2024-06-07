@@ -2,4 +2,8 @@ repositories:
   simulator/scenario_simulator:
     type: git
     url: https://github.com/tier4/scenario_simulator_v2.git
+<<<<<<< HEAD
+    version: f87ed9cacdbcf51a6edc2cd1fcedd66e70c64ac9
+=======
     version: RJD-736/autoware_msgs_support  # TODO(mitsudome-r): switch back to master once this branch is merged
+>>>>>>> 338e46d (feat(simulator.repos): use autoware_msgs_support branch for scenario_simulator (#4823))
